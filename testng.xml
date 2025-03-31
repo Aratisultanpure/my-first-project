@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="EcommerceAutomationSuite">
+    <test name="EcommerceAutomationTests">
+        <classes>
+            <class name="com.nixonex.ecommerce_automation.tests.LoginPageTest"/>
+        </classes>
+    </test>
+</suite>
